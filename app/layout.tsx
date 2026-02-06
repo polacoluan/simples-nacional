@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Reforma tributária",
+  title: "Simples Nacional",
   description: "Criada por Luan de Carvalho",
 };
 

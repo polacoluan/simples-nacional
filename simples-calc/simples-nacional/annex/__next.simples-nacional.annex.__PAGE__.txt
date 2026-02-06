@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/simples-calc/_next/static/chunks/ff1a16fafef87110.js","/simples-calc/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
+3:I[72909,["/simples-calc/_next/static/chunks/a4b72cff6290ee47.js","/simples-calc/_next/static/chunks/da31d50d4cf3f5d6.js","/simples-calc/_next/static/chunks/3fe5af28216d35c5.js","/simples-calc/_next/static/chunks/fb83b97efe2ad824.js"],"default"]
+6:I[97367,["/simples-calc/_next/static/chunks/ff1a16fafef87110.js","/simples-calc/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"aCyAAjIaz-2FYFT82L9l8","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/simples-calc/_next/static/chunks/da31d50d4cf3f5d6.js","async":true}],["$","script","script-1",{"src":"/simples-calc/_next/static/chunks/3fe5af28216d35c5.js","async":true}],["$","script","script-2",{"src":"/simples-calc/_next/static/chunks/fb83b97efe2ad824.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

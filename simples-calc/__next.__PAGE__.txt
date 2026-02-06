@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[9085,["/simples-calc/_next/static/chunks/a4b72cff6290ee47.js","/simples-calc/_next/static/chunks/ff1a16fafef87110.js","/simples-calc/_next/static/chunks/a462795659535670.js","/simples-calc/_next/static/chunks/414b4d62c48af28f.js","/simples-calc/_next/static/chunks/3fe5af28216d35c5.js"],"default"]
+3:I[97367,["/simples-calc/_next/static/chunks/ff1a16fafef87110.js","/simples-calc/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"aCyAAjIaz-2FYFT82L9l8","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/simples-calc/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/simples-calc/_next/static/chunks/a462795659535670.js","async":true}],["$","script","script-2",{"src":"/simples-calc/_next/static/chunks/414b4d62c48af28f.js","async":true}],["$","script","script-3",{"src":"/simples-calc/_next/static/chunks/3fe5af28216d35c5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

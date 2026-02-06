@@ -1,5 +1,5 @@
-import TaxReform from "./tax-reform/page";
+import SimplesNacional from "./simples-nacional/page";
 
 export default function Home() {
-  return <TaxReform />;
+  return <SimplesNacional />;
 }
